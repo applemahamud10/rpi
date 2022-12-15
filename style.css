@@ -1,0 +1,21 @@
+
+.accordion {
+    cursor: pointer;
+    
+  }
+   .panel {
+    
+    display: none;
+    
+    overflow: hidden;
+  } 
+  .card :hover{
+    background-color:#ccc;
+  }
+  .nav-link:hover {
+    background-color: gray;
+    color: white;
+    transition: 1s;
+    border-radius: 5px;
+
+  }
