@@ -9,9 +9,6 @@
     
     overflow: hidden;
   } 
-  .card :hover{
-    background-color:#ccc;
-  }
   .nav-link:hover {
     background-color: gray;
     color: white;
@@ -19,3 +16,4 @@
     border-radius: 5px;
 
   }
+  
